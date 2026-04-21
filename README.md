@@ -333,9 +333,13 @@ jobs:
 - [CloudFormation User Guide](https://docs.aws.amazon.com/cloudformation/)
 - [VPC Endpoints](https://docs.aws.amazon.com/vpc/latest/privatelink/)
 
+## 🤝 Contributing
+
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
+
 ## 📄 License
 
-Instructional code. Review and adapt for your security requirements before production use.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for the full text. When reusing this software, please ensure that the original copyright notice and attribution to **Vijay Mourya** are included.
 
 ---
 
